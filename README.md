@@ -9,16 +9,16 @@ A fun game
 3. 
 4. 
 
-## Mario
+## Maria
 
-1. 
+1. yellow
 2. 
 3. 
 4. 
 
 ## Leah
 
-1. 
+1. turquoise
 2. 
 3. 
 4. 
