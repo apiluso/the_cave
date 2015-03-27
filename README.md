@@ -4,14 +4,14 @@ A fun game
 
 ## John
 
-1. 
+1. blue
 2. 
 3. 
 4. 
 
-## Mario
+## Maria
 
-1. 
+1. red
 2. 
 3. 
 4. 
