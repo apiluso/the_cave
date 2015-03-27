@@ -1,24 +1,24 @@
-# the_cave
-A fun game
 
+# MOD
 
-## John
+Theme for the MOD2015 project. 
 
-1. blue
-2. Burgundy
-3. 
-4. 
+All development takes place in the Development branch.
 
-## Maria
+## Theme breakdown
 
-1. red
-2. yellow
-3. Gold
-4. 
+### Home
 
-## Leah
+The Home page is managed by the index.php template in conjunction with content.php. index.php handles the overall loop, content.php displays each post.
 
-1. turquoise
-2. Orange
-3. 
-4. 
+### Single movie page
+
+The single movie page is handled by the single.php template in conjunction with content-single.php
+
+### Taxonomy pages
+
+Taxonomy pages are handled by archive.php in conjunction with content.php.
+
+### Static pages (About, etc)
+
+Static pages are handled by page.php in conjunction with content-page.php
