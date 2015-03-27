@@ -11,14 +11,15 @@ A fun game
 
 ## Maria
 
+
 1. red
-2. 
+2. yellow
 3. 
 4. 
 
 ## Leah
 
-1. 
+1. turquoise
 2. 
 3. 
 4. 
