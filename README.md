@@ -5,7 +5,7 @@ A fun game
 ## John
 
 1. 
-2. 
+2. Burgundy
 3. 
 4. 
 
@@ -13,12 +13,12 @@ A fun game
 
 1. 
 2. 
-3. 
+3. Gold
 4. 
 
 ## Leah
 
 1. 
-2. 
+2. Orange
 3. 
 4. 
