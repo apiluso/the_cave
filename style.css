@@ -901,6 +901,7 @@ ul.nav-menu {
 .entry-content,
 .entry-summary {
 	margin: 1.5em 0 0;
+    padding: 150px;
 }
 
 .page-links {
